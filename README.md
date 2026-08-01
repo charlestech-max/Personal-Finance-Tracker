@@ -65,4 +65,4 @@ Welcome to the **Personal Finance Tracker with Machine Learning Insights**! This
 
 - **Enhanced Machine Learning Models**: Incorporate additional data sources and more sophisticated models for better predictions.
 - **Mobile Application**: Develop a mobile version for on-the-go financial management.
-- **Advanced Analytics**: Implement more detailed analytics and reporting features.
+- **Advanced Analytics**: Implement more detailed analytics and reporting features.
